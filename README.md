@@ -1,32 +1,21 @@
 # smart-hospital-BA-case-study
 Business Analysis case study applying SWOT, GAP Analysis, Root Cause Analysis, BPMN, Process Mapping, Fishbone Diagram, 5 Whys, and MoSCoW Prioritization for a Smart Hospital Management System.
-# Smart Hospital Power BI Dashboard
+## Power BI Dashboard
 
-## Overview
+A Power BI dashboard was developed to support the Smart Hospital Management System case study.
 
-This dashboard provides operational insights for the Smart Hospital Management System.
+### Dashboard Features
 
-## KPIs
-
-- Total Patients
-- Total Revenue
-- Average Waiting Time
-- Patient Satisfaction
-
-## Visualizations
-
-- Patients by Department
-- Appointment Status Analysis
-- Monthly Revenue Trend
+- Patient Volume Analysis
+- Revenue Monitoring
+- Appointment Tracking
 - Waiting Time Analysis
-- Medicine Inventory Status
+- Inventory Monitoring
+- Interactive Slicers
 
-## Business Value
-
-The dashboard enables hospital management to monitor performance, improve patient experience, reduce waiting times, and make data-driven decisions.
-
-## Tools Used
+### Tools
 
 - Power BI
 - Excel
+- PlantUML
 - Business Analysis Techniques
